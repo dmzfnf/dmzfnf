@@ -4,10 +4,6 @@
 
 </div>
 
-## À propos
-
-Je pilote la conception de solutions digitals sur mesure, dédiées à soutenir et à stimuler la croissance de mes entreprises.
-
 ## Domaines d'expertise
 
 <div align="center">
