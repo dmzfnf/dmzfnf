@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Freelance-162144?style=for-the-badge" alt="" />
 <br />
-<img src="https://img.shields.io/badge/Founder_%26_CEO-162144?style=for-the-badge" alt="" />
+<img src="https://img.shields.io/badge/Trader-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Developer-162144?style=for-the-badge" alt="" />
 </div>
 
